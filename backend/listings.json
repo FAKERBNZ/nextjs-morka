@@ -1,0 +1,92 @@
+[
+    {
+      "title": "Gorgeous Apartment Building",
+      "image": "/images/home/house-1.jpg",
+      "location": "12 Lowell Road, Port Washington",
+      "price": "$5050,00",
+      "datePublished": "April 9, 2024",
+      "status": "Published",
+      "feature": "No"
+    },
+    {
+      "title": "Mountain Mist Retreat, Aspen",
+      "image": "/images/home/house-2.jpg",
+      "location": "Brian Drive, Montvale, New Jersey",
+      "price": "$5050,00",
+      "datePublished": "April 9, 2024",
+      "status": "Published",
+      "feature": "No"
+    },
+    {
+      "title": "Lakeview Haven, Lake Tahoe",
+      "image": "/images/home/house-3.jpg",
+      "location": "12 Lowell Road, Port Washington",
+      "price": "$5050,00",
+      "datePublished": "April 9, 2024",
+      "status": "Published",
+      "feature": "No"
+    },
+    {
+      "title": "Coastal Serenity Cottage",
+      "image": "/images/home/house-4.jpg",
+      "location": "Brian Drive, Montvale, New Jersey",
+      "price": "$5050,00",
+      "datePublished": "April 9, 2024",
+      "status": "Published",
+      "feature": "No"
+    },
+    {
+      "title": "Urban Modern Loft",
+      "image": "/images/home/house-5.jpg",
+      "location": "88 Kingsway, New York",
+      "price": "$7500,00",
+      "datePublished": "May 15, 2024",
+      "status": "Pending",
+      "feature": "Yes"
+    },
+    {
+      "title": "Classic Victorian Estate",
+      "image": "/images/home/house-6.jpg",
+      "location": "22 Baker St, London",
+      "price": "$9500,00",
+      "datePublished": "June 20, 2024",
+      "status": "Hidden",
+      "feature": "No"
+    },
+    {
+      "title": "Modern Glass Villa",
+      "image": "/images/home/house-7.jpg",
+      "location": "88 Sunset Blvd, Los Angeles",
+      "price": "$12500,00",
+      "datePublished": "July 4, 2024",
+      "status": "Sold",
+      "feature": "Yes"
+    },
+    {
+      "title": "Country Farmhouse",
+      "image": "/images/home/house-8.jpg",
+      "location": "12 Farm Rd, Texas",
+      "price": "$3500,00",
+      "datePublished": "August 12, 2024",
+      "status": "Published",
+      "feature": "No"
+    },
+    {
+      "title": "Beachfront Bungalow",
+      "image": "/images/home/house-9.jpg",
+      "location": "45 Ocean Drive, Miami",
+      "price": "$5050,00",
+      "datePublished": "September 9, 2024",
+      "status": "Pending",
+      "feature": "Yes"
+    },
+    {
+      "title": "Sky High Penthouse",
+      "image": "/images/home/house-10.jpg",
+      "location": "100 Century Ave, Shanghai",
+      "price": "$20050,00",
+      "datePublished": "October 1, 2024",
+      "status": "Published",
+      "feature": "Yes"
+    }
+  ]
